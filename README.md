@@ -35,7 +35,7 @@ const str3 = `<div>\n\t<span></span>\n</div>`;
 import { tag } from 'pretty-tag';
 const str = tag`
     <div></div>`;
-console.log(tag);
+console.log(str);
 // '<div></div>'
 ```
 
@@ -45,7 +45,7 @@ console.log(tag);
 import { tag } from 'pretty-tag';
 const str = tag`<div></div>
     `;
-console.log(tag);
+console.log(str);
 // '<div></div>'
 ```
 
@@ -58,7 +58,7 @@ const str = tag`
         <div></div>
       </div>
     `;
-console.log(tag);
+console.log(str);
 ```
 
 =>
