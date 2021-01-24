@@ -1,5 +1,16 @@
 # pretty-tag
 
+[![NPM version][npm-image]][npm-url]
+[![npm download][download-image]][download-url]
+[![ci][ci-image]][ci-url]
+
+[npm-image]: https://img.shields.io/npm/v/pretty-tag.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/pretty-tag
+[download-image]: https://img.shields.io/npm/dm/pretty-tag.svg?style=flat-square
+[download-url]: https://npmjs.org/package/pretty-tag
+[ci-image]: https://github.com/supperchong/pretty-tag/workflows/CI/badge.svg
+[ci-url]: https://github.com/supperchong/pretty-tag/workflows/CI/badge.svg
+
 ## example
 
 ```js
